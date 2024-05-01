@@ -1,0 +1,6 @@
+<repositories>
+  <repository>
+    <id>com.mt</id>
+    <url>file://${project.basedir}/repo</url>
+  </repository>
+</repositories>
